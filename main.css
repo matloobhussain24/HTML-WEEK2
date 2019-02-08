@@ -83,7 +83,7 @@ img.hover{
 @media only screen and (max-width: 599px) {
    
     #grid-flex {
-        grid-template-columns: 40% 40%;
+        grid-template-columns: 50% 50%;
         padding: 1%;
     }
 
@@ -96,7 +96,7 @@ img.hover{
 @media only screen and (max-width: 400px) {
    
     #grid-flex {
-        grid-template-columns:60%;
+        grid-template-columns:100%;
         padding: 1%;
     }
 
